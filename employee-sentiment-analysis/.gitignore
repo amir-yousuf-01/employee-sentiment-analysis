@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.pyc
+venv/
+.env
+.idea/
+processed/
+visualizations/*.png
+visualizations/*.jpg
+report.docx

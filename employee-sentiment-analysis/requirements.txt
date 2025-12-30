@@ -1,0 +1,10 @@
+pandas==2.2.3
+numpy==2.1.2
+matplotlib==3.9.2
+seaborn==0.13.2
+scikit-learn==1.5.2
+torch==2.4.1
+transformers==4.45.2
+tqdm==4.66.5
+textblob==0.18.0.post0
+vaderSentiment==3.3.2
